@@ -1,0 +1,7 @@
+gh-ost \
+--azure \
+--assume-master-host=master-server-dns-name \
+--master-user="master-user-name" \
+--master-password="master-password" \
+--assume-rbr \
+[-- other paramters you need]
